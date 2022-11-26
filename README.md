@@ -1,0 +1,2 @@
+# README
+- repo for logsq
